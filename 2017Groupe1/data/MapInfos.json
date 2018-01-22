@@ -1,14 +1,14 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Pays des gratte-ciel","order":1,"parentId":0,"scrollX":1216.5,"scrollY":1220.25},
-{"id":2,"expanded":true,"name":"ExterieurVille","order":2,"parentId":0,"scrollX":2400,"scrollY":3725.5},
-{"id":3,"expanded":false,"name":"InterieurVille","order":3,"parentId":0,"scrollX":499,"scrollY":433.5},
-{"id":4,"expanded":true,"name":"MAP005","order":10,"parentId":4,"scrollX":534,"scrollY":305},
-{"id":5,"expanded":false,"name":"MAP006","order":4,"parentId":0,"scrollX":813,"scrollY":457.5},
-{"id":6,"expanded":true,"name":"Montagne","order":5,"parentId":0,"scrollX":712,"scrollY":400.6666666666667},
-{"id":7,"expanded":false,"name":"MAP008","order":6,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":1,"expanded":false,"name":"Pays des gratte-ciel","order":1,"parentId":0,"scrollX":1688,"scrollY":2010},
+{"id":2,"expanded":true,"name":"ExterieurVille","order":2,"parentId":0,"scrollX":2400,"scrollY":3726},
+{"id":3,"expanded":false,"name":"InterieurVille","order":3,"parentId":0,"scrollX":722.6666666666666,"scrollY":400.6666666666667},
+{"id":4,"expanded":true,"name":"Lego","order":10,"parentId":4,"scrollX":712,"scrollY":390},
+{"id":5,"expanded":false,"name":"MAP006","order":4,"parentId":0,"scrollX":722.6666666666666,"scrollY":400.6666666666667},
+{"id":6,"expanded":true,"name":"Montagne","order":5,"parentId":0,"scrollX":712,"scrollY":390},
+{"id":7,"expanded":false,"name":"MAP008","order":6,"parentId":0,"scrollX":722.6666666666666,"scrollY":400.6666666666667},
 {"id":8,"expanded":false,"name":"MAP009","order":7,"parentId":0,"scrollX":534,"scrollY":305},
-{"id":9,"expanded":false,"name":"MAP010","order":8,"parentId":0,"scrollX":534,"scrollY":305},
-{"id":10,"expanded":false,"name":"MAP011","order":11,"parentId":10,"scrollX":598.8,"scrollY":533.4},
-{"id":11,"expanded":false,"name":"MaeNoemie","order":9,"parentId":0,"scrollX":1118.3999999999999,"scrollY":510.59999999999997}
+{"id":9,"expanded":false,"name":"MAP010","order":8,"parentId":0,"scrollX":722.6666666666666,"scrollY":400.6666666666667},
+{"id":10,"expanded":false,"name":"MAP011","order":11,"parentId":10,"scrollX":722.6666666666666,"scrollY":400.6666666666667},
+{"id":11,"expanded":false,"name":"MaeNoemie","order":9,"parentId":0,"scrollX":1118.6666666666667,"scrollY":510}
 ]
