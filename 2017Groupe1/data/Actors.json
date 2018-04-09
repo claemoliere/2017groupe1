@@ -7,5 +7,6 @@ null,
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"ETHAN","classId":3,"equips":[3,1,2,3,4],"faceIndex":0,"faceName":"ETHAN","traits":[],"initialLevel":1,"maxLevel":99,"name":"TYRAN","nickname":"ETHAN","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"REDA","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"REDA","traits":[],"initialLevel":1,"maxLevel":99,"name":"DARK","nickname":"REDA","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":0,"characterName":"AZAHO","classId":4,"equips":[4,0,2,0,0],"faceIndex":0,"faceName":"AZAHO","traits":[],"initialLevel":1,"maxLevel":99,"name":"HUGY","nickname":"AZAHO","note":"","profile":""},
-{"id":8,"battlerName":"","characterIndex":0,"characterName":"FABIAN","classId":2,"equips":[2,1,2,3,4],"faceIndex":0,"faceName":"FABIAN","traits":[],"initialLevel":1,"maxLevel":99,"name":"IGF","nickname":"FABIAN","note":"","profile":""}
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"FABIAN","classId":2,"equips":[2,1,2,3,4],"faceIndex":0,"faceName":"FABIAN","traits":[],"initialLevel":1,"maxLevel":99,"name":"IGF","nickname":"FABIAN","note":"","profile":""},
+{"id":9,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stex","nickname":"","note":"","profile":""}
 ]
