@@ -1,0 +1,20 @@
+﻿<block:-1,-1,10,10,offbot,center,>
+Chasse au trésor (ver. Mars)
+
+\c[2]Createurs
+...
+
+
+\c[2]Animateur encadrant
+Camille
+
+\c[2]Mentions spéciales
+Le CLAE Molière
+LEO LAGRANGE
+
+
+
+
+LA FIN
+MERCI D'AVOIR JOUE
+</block>
